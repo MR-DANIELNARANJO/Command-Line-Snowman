@@ -1,7 +1,7 @@
 <head>
 <body>
- <h1 align="left">
-  <b align="center">Snowman Game</b>
+ <h1 align="top-left">
+  <ul><li>Snowman Game</li></ul>
   <br> <i> A command Line JavaScript application</i></br>
   
  ![Snowman Gif](./snowman.gif)
