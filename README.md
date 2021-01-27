@@ -1,2 +1,8 @@
-# Command-Line-Snowman
-The Classic Game of Snowman made in shell command
+<head>
+<body>
+ <h1 align="left">
+ Snowman Game - Command Line
+ ![Snowman Gif](./snowman.gif)
+ </h1>
+</body>
+</head>
