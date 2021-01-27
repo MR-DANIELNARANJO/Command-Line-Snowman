@@ -1,18 +1,20 @@
-<head>
-<body>
- <div>
- <h1 align="top-left">
-  <ul><li>Snowman Game</li></ul>
-  </h1>
-  <h2 align="center"> <br> <i> a command line JavaScript application</i></br></h2>
-  
- </div>
- <div>
+# Snowman, a command line JavaScript application
 
-<img src="./snowman.gif" width="100%" height="100%" >
+## 1. Running this application
 
- 
- </div>
- 
-</body>
-</head>
+* `git clone` this repo.
+* Open up the app in VSCode or a similar IDE.
+* run `npm install` to install any dependencies this project uses.
+* run `npm install chalk` to install chalk.
+* run `node snowman.js` and have some fun.
+
+## 2. Dependencies
+
+`require` package is used in this application to read in user input.
+
+```npm install require```
+
+```javacript
+const chalk = require('chalk')
+const readline = require('readline-sync')
+```
