@@ -26,7 +26,7 @@ Check the game structure in this `Trello`  [board](https://trello.com/b/QqA9QRFZ
 ### Snowman control flow
 
 * The computer pick a word at random from a library
-* The user should see a number of _ characters equal to the number of letters in the word (ex. B _ _ C _ _ N, for bitcoin)
+* The user should see a number of `_` characters equal to the number of letters in the word (ex. B _ _ C _ _ N, for `bitcoin`)
 
 #### The user is able to enter guesses
 
